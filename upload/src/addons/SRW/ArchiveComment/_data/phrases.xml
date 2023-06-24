@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="option.SRW_ac_comment_text" version_id="1000070" version_string="1.0.0"><![CDATA[Comment text]]></phrase>
+  <phrase title="option_explain.SRW_ac_comment_text" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_group.SRW_archive_comments" version_id="1000070" version_string="1.0.0"><![CDATA[[SRW] Archive Comment]]></phrase>
+  <phrase title="option_group_description.SRW_archive_comments" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+</phrases>

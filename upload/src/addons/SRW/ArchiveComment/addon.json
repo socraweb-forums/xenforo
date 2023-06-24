@@ -1,0 +1,19 @@
+{
+    "legacy_addon_id": "",
+    "title": "[SRW] Archive Comment",
+    "description": "Adding auto comments to uploaded archives",
+    "version_id": 1,
+    "version_string": "1.0.0",
+    "dev": "Socraweb Studios",
+    "dev_url": "https://socraweb.com/",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": "",
+    "require": {
+        "php": [
+            "7.3",
+            "PHP 7.3+"
+        ]
+    },
+    "icon": "far fa-file-archive"
+}
